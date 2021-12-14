@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://test48564.herokuapp.com/';
+$config['base_url'] = 'https://atividade-4.herokuapp.com/';
 //$config['base_url'] = 'https://localhost/projeto_apirest-jenniferc/';
 
 /*
